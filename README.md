@@ -71,17 +71,6 @@ const adam = {
 | 🌐 **[Portfolio](https://adriedel.de)** | Persönliche Portfolio-Website – Design bis Deployment | Figma · React |
 | ⚙️ **[Dev-Ops](https://github.com/adriedel/Dev-Ops)** | CRUD-Web-App als DevOps-Lernprojekt | JavaScript |
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adriedel&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriedel&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=adriedel&theme=tokyonight&hide_border=true" />
-</div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/adriedel/adriedel/output/github-contribution-grid-snake-dark.svg" />
 </div>
