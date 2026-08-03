@@ -82,16 +82,10 @@ const adam = {
   <img src="https://streak-stats.demolab.com/?user=adriedel&theme=tokyonight&hide_border=true" />
 </div>
 
-<!--
-  Contribution Snake: Diese Zeile erst NACH Einrichtung der GitHub Action
-  (.github/workflows/snake.yml) wieder einkommentieren, sonst kaputtes Bild!
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/adriedel/adriedel/output/github-contribution-grid-snake-dark.svg" />
 </div>
--->
 
----
 
 <div align="center">
   <i>⚡ Open for full-time opportunities starting September 2026</i>
